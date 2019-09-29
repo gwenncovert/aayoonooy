@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kolabeuthe.hyan.in/sitemap.xml
